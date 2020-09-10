@@ -1,10 +1,12 @@
 # ml-capstone-project
 Machine Learning Engineer Nanodegree
+
 Capstone Project
 
 Determining Presence of COVID-19 Through Chest X-rays
 
 by Eugene Medina
+
 September 2020
 
 The project relies on the following Python libraries to be downloaded and installed:
