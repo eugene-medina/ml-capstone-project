@@ -1,6 +1,6 @@
 # ml-capstone-project
 Machine Learning Engineer Nanodegree
-Capstone Project
+Capstone Project:
 Determining Presence of COVID-19 Through Chest X-rays
 by Eugene Medina
 September 2020
