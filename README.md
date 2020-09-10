@@ -5,7 +5,7 @@ Determining Presence of COVID-19 Through Chest X-rays
 by Eugene Medina
 September 2020
 
-The project relies on the following libraries to be downloaded and installed:
+The project relies on the following Python libraries to be downloaded and installed:
 1. os
 2. sys
 3. datetime
